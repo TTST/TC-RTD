@@ -20,4 +20,4 @@ Whether you are an industrial automation engineer, process control expert, plant
 <span style="color:red; font-size:16px;">Email: supportsw365@163.com</span>
 
 
-Beijing Kata Technology Co., Ltd.
+
